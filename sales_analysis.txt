@@ -1,0 +1,10 @@
+In this exercise, I will create a simple Python script to analyze and visualize sales data using the Pandas and Matplotlib libraries. This exercise will give exposure to data analysis and visualization, which are valuable skills in the job market, particularly for data analysts, data scientists, and business analysts.
+
+Run the script to see the sales data summary and visualization.
+
+This exercise introduces to the following concepts:
+
+Reading CSV data using the Pandas library
+Data manipulation and aggregation using Pandas
+Data visualization using the Matplotlib library
+These skills are essential for data analysts, data scientists, and business analysts, as they allow you to process, analyze, and present data in a meaningful and easy-to-understand way.
